@@ -1,5 +1,9 @@
 ### Hi, I'm Rinchen 👋
 
+- 🔭 I’m an aspiring Python developer
+- 🌱 Developing a habit of coding daily
+- 📫 Reach me at rinchenn@gmail.com
+  
 <!--
 **rinchenn/rinchenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
