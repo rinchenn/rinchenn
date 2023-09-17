@@ -1,6 +1,7 @@
 ### Hi, I'm Rinchen 👋
 
 - 🔭 I’m an aspiring Python developer
+- 👀 I'm currently focusing on network automation
 - 🌱 Developing a habit of coding daily
 - 📫 Reach me at rinchenn@gmail.com
   
